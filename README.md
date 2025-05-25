@@ -1,67 +1,80 @@
-<h1 align="center">Hi 👋, I'm Umais Nadeem </h1>
-<h3 align="center">AI/ML Enthusiast | Python Developer | Data Explorer</h3>
+<!-- Header -->
+<h1 align="center">Hey there 👋, I'm Umais Nadeem </h1>
+<h3 align="center">AI/ML Engineer | Deep Learning Enthusiast | Python Developer</h3>
 
----
-
-🔍 Passionate about building intelligent systems and solving real-world problems using Machine Learning and AI.
-
-- 🤖 I work with **Python, TensorFlow, PyTorch, scikit-learn, and more**
-- 📊 Skilled in **Data Analysis, Machine Learning, Deep Learning, NLP**
-- 🧠 Currently learning **LLMs, LangChain, and ML Ops tools like DVC & MLflow**
-- 📚 Always curious about **AI alignment, model optimization, and generative AI**
-- 📫 Reach me at: **umaisnadeem55@gmail.com**
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
----
-
-### 🧠 My Favorite Tools & Technologies:
-
+<!-- Typing effect -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FEEF&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Deep+Learning;Python+Developer;Data+Science+%7C+Researcher;Transformers+%7C+LLMs+%7C+MLOps;Open+Source+Contributor" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🚀 About Me
+
+🎓 AI/ML Engineer with a passion for solving complex problems using Machine Learning and Deep Learning.  
+🧠 Building intelligent systems with **Python, PyTorch, TensorFlow, Scikit-learn** and more.  
+🔬 Interested in **LLMs, Generative AI, and Model Optimization**.  
+📈 Always exploring **Data Science, Model Interpretability, and MLOps**.  
+🌐 Let’s collaborate on **open-source ML projects, research, or tools**.
+
+---
+
+### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umaismu&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,jupyter,docker,git,vscode,linux,fastapi" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+
+🚀 [**Awesome-AI-Project**](https://github.com/yourusername/awesome-ai-project)  
+> 🤖 A production-ready pipeline for image classification using TensorFlow + Streamlit UI.
+
+🧠 [**LLM-Powered Chatbot**](https://github.com/yourusername/llm-chatbot)  
+> A chatbot using LangChain, OpenAI, and custom RAG pipelines.
+
+📊 [**Data-Analysis-Toolkit**](https://github.com/yourusername/data-analysis-toolkit)  
+> A powerful set of utilities to preprocess, analyze, and visualize structured data.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umaismu&theme=tokyonight" alt="streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaismu&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umaismu&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umaismu&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🧩 My Interests
+### 🧠 Certifications & Courses
 
-- 🤖 AI / Deep Learning / LLMs
-- 🧬 Neural Networks & Transformers
-- 🧹 Data Cleaning & Feature Engineering
-- 🔍 Model Explainability & Evaluation
-- 🌐 AI for Good & Real-World Impact
+- 🎓 Deep Learning Specialization – Andrew Ng (Coursera)
+- 🧪 Hugging Face NLP Course – 🤗 Transformers
+- 🛠️ MLOps with MLflow and DVC
 
 ---
 
-### 🌐 Let's Connect!
+### 🌐 Let's Connect
 
-<p>
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+<p align="center">
+  <a href="mailto:umaisnadeem55@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=umaismu&theme=algolia&row=1&column=7" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">💡 “The best way to predict the future is to invent it.” – Alan Kay</p>
